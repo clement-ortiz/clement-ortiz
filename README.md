@@ -1,1 +1,4 @@
-- 👋 Hi, I’m @clement-ortiz
+- 👋 Hi, I’m @clement-ortiz,French IoT engineer, 22 years old, data scientist curriculum 
+- 📱mobile software developer
+- 👨🏻‍💻 DB enginner SQL / No SQL
+- 💼 work for Thales Las
